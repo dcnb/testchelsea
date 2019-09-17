@@ -2,23 +2,23 @@
 
 # SITE SETTINGS
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: My Glacier National Park Trip 
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: collection-metadata # 
+metadata: metadata-testchelsea # 
 # repository is the github repository's full url: 
 # replace CollectionBuilder with your GitHub username and replace 'collectionbuilder-gh' with the name of your repository
-repository: https://github.com/CollectionBuilder/collectionbuilder-gh
+repository: https://github.com/cc3199/testchelsea
 
 # WEBSITE HEADER and HEAD metadata for SEO
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A Sneak Peek
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: Just some photos of my three day trip to Glacier National Park, Summer 2019
 # keywords appear in meta tags
 keywords: "university of idaho, digital collections, digital humanities"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Chelsea
 
 
 # HOME PAGE SECTION
