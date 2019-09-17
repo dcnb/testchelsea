@@ -23,11 +23,11 @@ author: Chelsea
 
 # HOME PAGE SECTION
 # give full filename including folder. This image will also appear in meta tags for search and social media
-home-banner-image: "objects/test011.jpg"
+home-banner-image: "objects/testchelsea1.jpg"
 # enter object-id of the above item in order to link to the featured image
-home-banner-image-objectid: test011 
+home-banner-image-objectid: testchelsea1
 # give title of the image for accessibility
-home-banner-image-title: Snowstorm Concentrator, Troy, Montana. No. 6. 
+home-banner-image-title: Going to the Sun Road, Glacier, Montana 
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: # Default is 8em
 # optional: change position of image, center, top, bottom
@@ -40,7 +40,7 @@ featured-subjects: # if left blank, will be automatically generated to create to
 # set number of top subjects to display if auto generating
 featured-subjects-max: 5 
 # Same as subjects above. Leave blank for automatically genearated locations. Or add locations you'd like to feature. For list see data/places.csv
-featured-locations: Moscow, Idaho; Tacoma, Washington; Pullman, Washington; Spokane, Washington #separate by semi-colon(';') - if left blank, will be automatically generated to create top 5 locations
+featured-locations: Glacier National Park, Montana;  #separate by semi-colon(';') - if left blank, will be automatically generated to create top 5 locations
 featured-locations-max: 3
 mediatypes: images;documents;sound;video #options[documents,images,video,sound,data] separate semi-colon(';'). If semi-colon is present, the browse items on the browse page will display a type field. If only one media type (and thus no semi-colon), no type field will display
 
@@ -49,8 +49,8 @@ mediatypes: images;documents;sound;video #options[documents,images,video,sound,d
 about-page: true # options [true / false] 
 # Featured image on About page - if left blank, CB will use image featured on the home page
 # give filename including folder
-about-featured-image: objects/test012.jpg
-about-featured-image-alt: "Administration Building, University of Idaho"
+about-featured-image: objects/testchelse2.jpg
+about-featured-image-alt: "Saint Mary Lake"
 
 # BROWSE PAGE
 # see _data/browse-config.csv for field display options
