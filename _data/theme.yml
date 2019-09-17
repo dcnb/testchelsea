@@ -64,7 +64,7 @@ zoom-level: 7 # zoom level for map
 
 # SUBJECT PAGE
 subjects-off: false # true / false, turns off subject generation to lower dev build time (then page doesn't work!)
-subject-min: 1 # min size for subject cloud, too many terms = slow load time!
+subject-min: 2 # min size for subject cloud, too many terms = slow load time!
 stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 # TIMELINE PAGE
