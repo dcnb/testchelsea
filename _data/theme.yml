@@ -58,8 +58,8 @@ about-featured-image-alt: "Saint Mary Lake"
 
 # MAP PAGE
 # see _data/map-config.csv for field display options
-latitude: 46.727485 #to determine center of map
-longitude: -117.014185 #to determine center of map
+latitude: 48.481829 #to determine center of map
+longitude: -113.376112 #to determine center of map
 zoom-level: 7 # zoom level for map 
 
 # SUBJECT PAGE
